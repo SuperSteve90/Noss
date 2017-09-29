@@ -1,0 +1,10 @@
+C:\Users\grant\source\repos\Noss\Noss\bin\Debug\netcoreapp1.1\Noss.deps.json
+C:\Users\grant\source\repos\Noss\Noss\bin\Debug\netcoreapp1.1\Noss.runtimeconfig.json
+C:\Users\grant\source\repos\Noss\Noss\bin\Debug\netcoreapp1.1\Noss.runtimeconfig.dev.json
+C:\Users\grant\source\repos\Noss\Noss\bin\Debug\netcoreapp1.1\Noss.dll
+C:\Users\grant\source\repos\Noss\Noss\obj\Debug\netcoreapp1.1\Noss.csproj.CoreCompileInputs.cache
+C:\Users\grant\source\repos\Noss\Noss\obj\Debug\netcoreapp1.1\Noss.AssemblyInfo.cs
+C:\Users\grant\source\repos\Noss\Noss\bin\Debug\netcoreapp1.1\Noss.pdb
+C:\Users\grant\source\repos\Noss\Noss\obj\Debug\netcoreapp1.1\Noss.csprojResolveAssemblyReference.cache
+C:\Users\grant\source\repos\Noss\Noss\obj\Debug\netcoreapp1.1\Noss.dll
+C:\Users\grant\source\repos\Noss\Noss\obj\Debug\netcoreapp1.1\Noss.pdb
